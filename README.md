@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/391290fb-032a-4f2a-8136-dd2dfd75859a"
-       alt="Indonesia GIF" />
+    width="360"
+    alt="Indonesia GIF" />
 </p>
 
 <br>
