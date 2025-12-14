@@ -8,16 +8,17 @@
 	</em>
 </p>
 
+<img align="right" width=240px alt="Shedinja" src="https://media.tenor.com/kEMl8WjM4agAAAAi/shedinja-ghost.gif">
+
 ### Technology and Tools
 - Python, FastAPI 
 - Docker, SQLAlchemy
 
-<img align="right" width=140px alt="Shedinja" src="https://media.tenor.com/kEMl8WjM4agAAAAi/shedinja-ghost.gif">
-
 ### Outside of Code
-- I love cats.
+- Cats lover.
 - The Witcher 3 is my favorite video game.
-- Currently listening to My Chemical Romance and Linkin Park.
+- Currently listening to Arctic Monkeys and Green Day.
+- History buff.
 
 ### GitHub Activity
 [![Haiqal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HaiqalAly&bg_color=00000000&line=c8d6e3&point=4d7a8e&color=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
