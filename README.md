@@ -10,9 +10,11 @@
 
 <img align="right" width=240px alt="Shedinja" src="https://media.tenor.com/kEMl8WjM4agAAAAi/shedinja-ghost.gif">
 
-### Technology and Tools
-- Python, FastAPI 
-- Docker, SQLAlchemy
+### Technology Stack
+- Python ( FastAPI & SQLAlchemy )
+- Docker & Docker Compose
+- Bash ( Scripting )
+- Git
 
 ### Outside of Code
 - Cats lover.
