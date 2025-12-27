@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello there! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+<h1 align="center"><b>Haiqal Aly | Backend Developer in Training</b></h1>
 
 <p align="center">
 	<em>
@@ -8,19 +8,20 @@
 	</em>
 </p>
 
-<img align="right" width=240px alt="Shedinja" src="https://media.tenor.com/kEMl8WjM4agAAAAi/shedinja-ghost.gif">
+### Technical Ecosystem
+- **Core:** Python (FastAPI, SQLAlchemy 2.0 Async, Pydantic)
+- **Infrastructure:** Docker & Docker Compose, PostgreSQL
+- **Tooling:** Bash Scripting, Git, Ruff (Linting), uv (Package Management)
 
-### Technology Stack
-- Python ( FastAPI & SQLAlchemy )
-- Docker & Docker Compose
-- Bash ( Scripting )
-- Git
-
-### Outside of Code
-- Cats lover.
-- The Witcher 3 is my favorite video game.
-- Currently listening to Arctic Monkeys and Green Day.
-- History buff.
+### Beyond the Terminal
+- **Cats Lover:** Proud cats lover.
+- **The Witcher 3:** Currently on my 2nd playthrough.
+- **Music:** Rotating between *Arctic Monkeys* and *Green Day*.
+- **History:** Always down to discuss medieval history.
 
 ### GitHub Activity
 [![Haiqal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HaiqalAly&bg_color=00000000&line=c8d6e3&point=4d7a8e&color=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <em>"One endpoint at a time."</em>
+</p>
